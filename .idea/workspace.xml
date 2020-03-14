@@ -1,0 +1,1089 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/main/Python/nowcoder/S31_NumberOf1Between1AndN.py" line="7" mnemonic="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="98c58d5f-f5ca-4f96-bd5c-391773261ed3" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/program$S56_DeleteDuplication.coverage" NAME="S56_DeleteDuplication Coverage Results" MODIFIED="1581656825881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Python/nowcoder" />
+    <SUITE FILE_PATH="coverage/program$S43_LeftRotateString.coverage" NAME="S43_LeftRotateString Coverage Results" MODIFIED="1581061863013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Python/nowcoder" />
+    <SUITE FILE_PATH="coverage/program$S62_KthNode.coverage" NAME="S62_KthNode Coverage Results" MODIFIED="1581950896120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Python/nowcoder" />
+    <SUITE FILE_PATH="coverage/program$S41_FindContinuousSequence.coverage" NAME="S41_FindContinuousSequence Coverage Results" MODIFIED="1581002454128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Python/nowcoder" />
+    <SUITE FILE_PATH="coverage/program$S50_Duplicate.coverage" NAME="S50_Duplicate Coverage Results" MODIFIED="1581431600374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Python/nowcoder" />
+    <SUITE FILE_PATH="coverage/program$S17_HasSubTree.coverage" NAME="S17_HasSubTree Coverage Results" MODIFIED="1577365755795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Python/nowcoder" />
+    <SUITE FILE_PATH="coverage/program$BinaryInsertSort.coverage" NAME="BinaryInsertSort Coverage Results" MODIFIED="1576483914557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Python" />
+    <SUITE FILE_PATH="coverage/program$15ReverseList.coverage" NAME="15ReverseList Coverage Results" MODIFIED="1577279239238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Python/nowcoder" />
+    <SUITE FILE_PATH="coverage/program$S38_TreeDepth.coverage" NAME="S38_TreeDepth Coverage Results" MODIFIED="1580799461729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Python/nowcoder" />
+    <SUITE FILE_PATH="coverage/program$S60_BTreePrint.coverage" NAME="S60_BTreePrint Coverage Results" MODIFIED="1581738368480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Python/nowcoder" />
+    <SUITE FILE_PATH="coverage/program$S45_IsContinuous.coverage" NAME="S45_IsContinuous Coverage Results" MODIFIED="1581140311064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Python/nowcoder" />
+    <SUITE FILE_PATH="coverage/program$14FindKthToTail.coverage" NAME="14FindKthToTail Coverage Results" MODIFIED="1577276668921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Python/nowcoder" />
+    <SUITE FILE_PATH="coverage/program$S39_IsBalanced.coverage" NAME="S39_IsBalanced Coverage Results" MODIFIED="1580876266853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Python/nowcoder" />
+    <SUITE FILE_PATH="coverage/program$S28_MoreThanHalfNum.coverage" NAME="S28_MoreThanHalfNum Coverage Results" MODIFIED="1578555005381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Python/nowcoder" />
+    <SUITE FILE_PATH="coverage/program$S32_PrintMinNumber.coverage" NAME="S32_PrintMinNumber Coverage Results" MODIFIED="1580007140971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Python/nowcoder" />
+    <SUITE FILE_PATH="coverage/program$S65_HasPaht.coverage" NAME="S65_HasPaht Coverage Results" MODIFIED="1582088984127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Python/nowcoder" />
+    <SUITE FILE_PATH="coverage/program$S32_UglyNumber.coverage" NAME="S32_UglyNumber Coverage Results" MODIFIED="1580271564716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Python/nowcoder" />
+    <SUITE FILE_PATH="coverage/program$S37_GetNumberOfK.coverage" NAME="S37_GetNumberOfK Coverage Results" MODIFIED="1580797398668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Python/nowcoder" />
+    <SUITE FILE_PATH="coverage/program$PrintTreeLayer.coverage" NAME="PrintTreeLayer Coverage Results" MODIFIED="1576758815551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Python/nowcoder" />
+    <SUITE FILE_PATH="coverage/program$Convert_6.coverage" NAME="Convert_6 Coverage Results" MODIFIED="1570773383374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/java/leetcodeTest/PythonVersion" />
+    <SUITE FILE_PATH="coverage/program$9JumpFloorII.coverage" NAME="9JumpFloorII Coverage Results" MODIFIED="1576848922789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Python/nowcoder" />
+    <SUITE FILE_PATH="coverage/program$S16_Merge.coverage" NAME="S16_Merge Coverage Results" MODIFIED="1577362554936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Python/nowcoder" />
+    <SUITE FILE_PATH="coverage/program$S44_ReverseSentence.coverage" NAME="S44_ReverseSentence Coverage Results" MODIFIED="1581063852395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Python/nowcoder" />
+    <SUITE FILE_PATH="coverage/program$Array2List.coverage" NAME="Array2List Coverage Results" MODIFIED="1581656820947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Python/nowcoder" />
+    <SUITE FILE_PATH="coverage/program$1FindNumber.coverage" NAME="1FindNumber Coverage Results" MODIFIED="1576067970938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Python/nowcoder" />
+    <SUITE FILE_PATH="coverage/program$S19_PrintMatrix.coverage" NAME="S19_PrintMatrix Coverage Results" MODIFIED="1577453718110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Python/nowcoder" />
+    <SUITE FILE_PATH="coverage/program$S64_MaxInWindows.coverage" NAME="S64_MaxInWindows Coverage Results" MODIFIED="1582033313690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Python/nowcoder" />
+    <SUITE FILE_PATH="coverage/program$S31_NumberOf1Between1AndN.coverage" NAME="S31_NumberOf1Between1AndN Coverage Results" MODIFIED="1579092296511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Python/nowcoder" />
+    <SUITE FILE_PATH="coverage/program$S42_FindContinuousSequence.coverage" NAME="S42_FindContinuousSequence Coverage Results" MODIFIED="1581005287143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Python/nowcoder" />
+    <SUITE FILE_PATH="coverage/program$SelectSort.coverage" NAME="SelectSort Coverage Results" MODIFIED="1576499574158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Python" />
+    <SUITE FILE_PATH="coverage/program$5StackToQueue.coverage" NAME="5StackToQueue Coverage Results" MODIFIED="1576552837416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Python/nowcoder" />
+    <SUITE FILE_PATH="coverage/program$S34_FirstNotRepeatingChar.coverage" NAME="S34_FirstNotRepeatingChar Coverage Results" MODIFIED="1580442951781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Python/nowcoder" />
+    <SUITE FILE_PATH="coverage/program$S66_MovingCount.coverage" NAME="S66_MovingCount Coverage Results" MODIFIED="1582172659894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Python/nowcoder" />
+    <SUITE FILE_PATH="coverage/program$11NumberOf1.coverage" NAME="11NumberOf1 Coverage Results" MODIFIED="1577099896411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Python/nowcoder" />
+    <SUITE FILE_PATH="coverage/program$S54_FirstAppearOnce.coverage" NAME="S54_FirstAppearOnce Coverage Results" MODIFIED="1581598413889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Python/nowcoder" />
+    <SUITE FILE_PATH="coverage/program$S52_Match.coverage" NAME="S52_Match Coverage Results" MODIFIED="1581506841944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Python/nowcoder" />
+    <SUITE FILE_PATH="coverage/program$10RectCover.coverage" NAME="10RectCover Coverage Results" MODIFIED="1577090602945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Python/nowcoder" />
+    <SUITE FILE_PATH="coverage/program$4ReConstructBinaryTree.coverage" NAME="4ReConstructBinaryTree Coverage Results" MODIFIED="1576760720781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Python/nowcoder" />
+    <SUITE FILE_PATH="coverage/program$S48_Add.coverage" NAME="S48_Add Coverage Results" MODIFIED="1581351973273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Python/nowcoder" />
+    <SUITE FILE_PATH="coverage/program$S49_StrToInt.coverage" NAME="S49_StrToInt Coverage Results" MODIFIED="1581399971026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Python/nowcoder" />
+    <SUITE FILE_PATH="coverage/program$S51_Multiply.coverage" NAME="S51_Multiply Coverage Results" MODIFIED="1581482283521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Python/nowcoder" />
+    <SUITE FILE_PATH="coverage/program$S14_FindKthToTail14.coverage" NAME="S14_FindKthToTail14 Coverage Results" MODIFIED="1577362236978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Python/nowcoder" />
+    <SUITE FILE_PATH="coverage/program$S29_GetLeastKNumbers.coverage" NAME="S29_GetLeastKNumbers Coverage Results" MODIFIED="1578574721331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Python/nowcoder" />
+    <SUITE FILE_PATH="coverage/program$S27_Permutation.coverage" NAME="S27_Permutation Coverage Results" MODIFIED="1578488512564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Python/nowcoder" />
+    <SUITE FILE_PATH="coverage/program$S30_FindGreatestSumOfSubArray.coverage" NAME="S30_FindGreatestSumOfSubArray Coverage Results" MODIFIED="1579056728415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Python/nowcoder" />
+    <SUITE FILE_PATH="coverage/program$12Power.coverage" NAME="12Power Coverage Results" MODIFIED="1577155969265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Python/nowcoder" />
+    <SUITE FILE_PATH="coverage/program$S22_PrintFromTopToBottom.coverage" NAME="S22_PrintFromTopToBottom Coverage Results" MODIFIED="1577621942102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Python/nowcoder" />
+    <SUITE FILE_PATH="coverage/program$S59_ZPrint.coverage" NAME="S59_ZPrint Coverage Results" MODIFIED="1581738317515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Python/nowcoder" />
+    <SUITE FILE_PATH="coverage/program$13ReOrderArray.coverage" NAME="13ReOrderArray Coverage Results" MODIFIED="1577191645146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Python/nowcoder" />
+    <SUITE FILE_PATH="coverage/program$S40_FindNumsAppearOnce_new.coverage" NAME="S40_FindNumsAppearOnce_new Coverage Results" MODIFIED="1580960486191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Python/nowcoder" />
+    <SUITE FILE_PATH="coverage/program$BubbleSort.coverage" NAME="BubbleSort Coverage Results" MODIFIED="1576485924401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Python" />
+    <SUITE FILE_PATH="coverage/program$S47_Sum.coverage" NAME="S47_Sum Coverage Results" MODIFIED="1581323843375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Python/nowcoder" />
+    <SUITE FILE_PATH="coverage/program$InsertSort.coverage" NAME="InsertSort Coverage Results" MODIFIED="1576481692417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Python" />
+    <SUITE FILE_PATH="coverage/program$S18_Mirror.coverage" NAME="S18_Mirror Coverage Results" MODIFIED="1577370008876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Python/nowcoder" />
+    <SUITE FILE_PATH="coverage/program$3PrintListFromTailToHead.coverage" NAME="3PrintListFromTailToHead Coverage Results" MODIFIED="1576071748916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Python/nowcoder" />
+    <SUITE FILE_PATH="coverage/program$convert_6.coverage" NAME="convert_6 Coverage Results" MODIFIED="1570775717771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/java/leetcodeTest/PythonVersion" />
+    <SUITE FILE_PATH="coverage/program$S58_IsSymmetrical.coverage" NAME="S58_IsSymmetrical Coverage Results" MODIFIED="1581684731052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Python/nowcoder" />
+    <SUITE FILE_PATH="coverage/program$HeapSort.coverage" NAME="HeapSort Coverage Results" MODIFIED="1576502264629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Python" />
+    <SUITE FILE_PATH="coverage/program$S35_InversePairs.coverage" NAME="S35_InversePairs Coverage Results" MODIFIED="1580790480992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Python/nowcoder" />
+    <SUITE FILE_PATH="coverage/program$6MinNumberInRotateArray.coverage" NAME="6MinNumberInRotateArray Coverage Results" MODIFIED="1576569047694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Python/nowcoder" />
+    <SUITE FILE_PATH="coverage/program$7Fibonacci.coverage" NAME="7Fibonacci Coverage Results" MODIFIED="1576660418245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Python/nowcoder" />
+    <SUITE FILE_PATH="coverage/program$QuickSort.coverage" NAME="QuickSort Coverage Results" MODIFIED="1576501788566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Python" />
+    <SUITE FILE_PATH="coverage/program$2ReplaceSpace.coverage" NAME="2ReplaceSpace Coverage Results" MODIFIED="1576069160205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Python/nowcoder" />
+    <SUITE FILE_PATH="coverage/program$RegularExpressionMatch__1_.coverage" NAME="RegularExpressionMatch (1) Coverage Results" MODIFIED="1568712285165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/nowcoder" />
+    <SUITE FILE_PATH="coverage/program$S63_GetMedian.coverage" NAME="S63_GetMedian Coverage Results" MODIFIED="1582002823951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Python/nowcoder" />
+    <SUITE FILE_PATH="coverage/program$S23_VerifySquenceOfBST.coverage" NAME="S23_VerifySquenceOfBST Coverage Results" MODIFIED="1577625868980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Python/nowcoder" />
+    <SUITE FILE_PATH="coverage/program$S21_IsPopOrder.coverage" NAME="S21_IsPopOrder Coverage Results" MODIFIED="1577619916048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Python/nowcoder" />
+    <SUITE FILE_PATH="coverage/program$S46_LastRemaining.coverage" NAME="S46_LastRemaining Coverage Results" MODIFIED="1581258620906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Python/nowcoder" />
+    <SUITE FILE_PATH="coverage/program$S53_IsNumeric.coverage" NAME="S53_IsNumeric Coverage Results" MODIFIED="1581572246692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Python/nowcoder" />
+    <SUITE FILE_PATH="coverage/program$S40_FindNumsAppearOnce.coverage" NAME="S40_FindNumsAppearOnce Coverage Results" MODIFIED="1580913601284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Python/nowcoder" />
+    <SUITE FILE_PATH="coverage/program$S67_CutRope.coverage" NAME="S67_CutRope Coverage Results" MODIFIED="1582175755003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Python/nowcoder" />
+    <SUITE FILE_PATH="coverage/program$8JumpFloor.coverage" NAME="8JumpFloor Coverage Results" MODIFIED="1576660594115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/Python/nowcoder" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/nowcoder/S66_MovingCount.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="704">
+              <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/Python/nowcoder/S66_MovingCount.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="20" column="20" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/nowcoder/S67_CutRope.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/Python/nowcoder/S67_CutRope.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/BinaryInsertionSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/leetcodeTest/S373_kSmallestPairs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="211">
+              <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#591#611#0" expanded="true" />
+                <element signature="e#735#892#0" expanded="true" />
+                <element signature="e#891#892#0" expanded="true" />
+                <element signature="e#1209#1218#0" expanded="true" />
+                <element signature="e#758#759#0" expanded="true" />
+                <element signature="e#793#794#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/leetcodeTest/S373_kSmallestPairs_new.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Worksheet" />
+        <option value="Python Script" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/nowcoder/S50_Duplicate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nowcoder/S50_Duplicate_new.java" />
+        <option value="$PROJECT_DIR$/src/main/Python/nowcoder/S50_Duplicate.py" />
+        <option value="$PROJECT_DIR$/src/main/java/nowcoder/S49_StrToInt.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nowcoder/S51_Multiply.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nowcoder/S51_Multiply_new.java" />
+        <option value="$PROJECT_DIR$/src/main/Python/nowcoder/S51_Multiply.py" />
+        <option value="$PROJECT_DIR$/src/main/java/nowcoder/RegularExpressionMatch.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nowcoder/S52_Match.java" />
+        <option value="$PROJECT_DIR$/src/main/Python/nowcoder/S52_Match.py" />
+        <option value="$PROJECT_DIR$/src/main/java/nowcoder/S53_IsNumeric.java" />
+        <option value="$PROJECT_DIR$/src/main/Python/nowcoder/S53_IsNumeric.py" />
+        <option value="$PROJECT_DIR$/src/main/java/nowcoder/S54_FirstAppearOnce.java" />
+        <option value="$PROJECT_DIR$/src/main/Python/nowcoder/S54_FirstAppearOnce.py" />
+        <option value="$PROJECT_DIR$/src/main/java/nowcoder/S55_MeetingNode.java" />
+        <option value="$PROJECT_DIR$/src/main/Python/nowcoder/S55_MeetingNode.py" />
+        <option value="$PROJECT_DIR$/src/main/java/nowcoder/Array2List.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nowcoder/S56_DeleteDuplication.java" />
+        <option value="$PROJECT_DIR$/src/main/Python/nowcoder/S56_DeleteDuplication.py" />
+        <option value="$PROJECT_DIR$/src/main/Python/nowcoder/Array2List.py" />
+        <option value="$PROJECT_DIR$/src/main/java/nowcoder/TreeLinkNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nowcoder/S57_GetNext.java" />
+        <option value="$PROJECT_DIR$/src/main/Python/nowcoder/S57_GetNext.py" />
+        <option value="$PROJECT_DIR$/src/main/java/nowcoder/S58_IsSymmetrical.java" />
+        <option value="$PROJECT_DIR$/src/main/Python/nowcoder/S58_IsSymmetrical.py" />
+        <option value="$PROJECT_DIR$/src/main/java/nowcoder/S59_ZPrint.java" />
+        <option value="$PROJECT_DIR$/src/main/Python/nowcoder/S59_ZPrint.py" />
+        <option value="$PROJECT_DIR$/src/main/Python/nowcoder/S60_BTreePrint.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nowcoder/scriptFile.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/nowcoder/S60_BTreePrint.java" />
+        <option value="$PROJECT_DIR$/src/main/Python/nowcoder/S60_BTreePrint.py" />
+        <option value="$PROJECT_DIR$/src/main/java/HeapSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nowcoder/SerializeAndDeSerialize.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nowcoder/S61_SerializeAndDeSerialize.java" />
+        <option value="$PROJECT_DIR$/src/main/Python/nowcoder/S61_SerializeAndDeSerialize.py" />
+        <option value="$PROJECT_DIR$/src/main/java/nowcoder/S62_KthNode.java" />
+        <option value="$PROJECT_DIR$/src/main/Python/nowcoder/S62_KthNode.py" />
+        <option value="$PROJECT_DIR$/src/main/java/nowcoder/S63_GetMedian.java" />
+        <option value="$PROJECT_DIR$/src/main/Python/nowcoder/S63_GetMedian.py" />
+        <option value="$PROJECT_DIR$/src/main/java/nowcoder/S64_MaxInWindows.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nowcoder/S64_MaxInWindows_new.java" />
+        <option value="$PROJECT_DIR$/src/main/Python/nowcoder/S64_MaxInWindows.py" />
+        <option value="$PROJECT_DIR$/src/main/java/nowcoder/S65_HasPath.java" />
+        <option value="$PROJECT_DIR$/src/main/Python/nowcoder/S65_HasPaht.py" />
+        <option value="$PROJECT_DIR$/src/main/Python/nowcoder/S66_MovingCount.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nowcoder/S66_MovingCount.java" />
+        <option value="$PROJECT_DIR$/src/main/Python/nowcoder/S66_MovingCount.py" />
+        <option value="$PROJECT_DIR$/src/main/java/nowcoder/S67_CutRope.java" />
+        <option value="$PROJECT_DIR$/src/main/Python/nowcoder/S67_CutRope.py" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcodeTest/S373_kSmallestPairs.java" />
+        <option value="$PROJECT_DIR$/src/main/java/leetcodeTest/S373_kSmallestPairs_new.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="169" />
+    <option name="y" value="124" />
+    <option name="width" value="1509" />
+    <option name="height" value="1044" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="program" type="b2602c69:ProjectViewProjectNode" />
+              <item name="program" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="program" type="b2602c69:ProjectViewProjectNode" />
+              <item name="program" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="program" type="b2602c69:ProjectViewProjectNode" />
+              <item name="program" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="program" type="b2602c69:ProjectViewProjectNode" />
+              <item name="program" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="program" type="b2602c69:ProjectViewProjectNode" />
+              <item name="program" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcodeTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583070859509" />
+    <property name="last_opened_file_path" value="E:/Anaconda3/Scripts/conda.exe" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\program\src\nowcoder" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="leetcodeTest" />
+      <recent name="nowcoder" />
+      <recent name="" />
+      <recent name="leetcodeTest.JavaVersion.Array" />
+      <recent name="leetcodeTest.JavaVersion.String" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\program\src\main\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.S373_kSmallestPairs_new">
+    <configuration name="S373_kSmallestPairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcodeTest.S373_kSmallestPairs" />
+      <module name="program" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcodeTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="S373_kSmallestPairs_new" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcodeTest.S373_kSmallestPairs_new" />
+      <module name="program" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcodeTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="S67_CutRope" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nowcoder.S67_CutRope" />
+      <module name="program" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nowcoder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="S66_MovingCount" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="program" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/main/Python/nowcoder" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/main/Python/nowcoder/S66_MovingCount.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="S67_CutRope" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="program" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/main/Python/nowcoder" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/main/Python/nowcoder/S67_CutRope.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.S373_kSmallestPairs_new" />
+        <item itemvalue="Application.S373_kSmallestPairs" />
+        <item itemvalue="Python.S67_CutRope" />
+        <item itemvalue="Application.S67_CutRope" />
+        <item itemvalue="Python.S66_MovingCount" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98c58d5f-f5ca-4f96-bd5c-391773261ed3" name="Default Changelist" comment="" />
+      <created>1568082618090</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568082618090</updated>
+      <workItem from="1568082623554" duration="12071000" />
+      <workItem from="1568162598391" duration="14005000" />
+      <workItem from="1568249344205" duration="14707000" />
+      <workItem from="1568517304190" duration="764000" />
+      <workItem from="1568595578718" duration="20165000" />
+      <workItem from="1568681639444" duration="14905000" />
+      <workItem from="1568775240042" duration="1366000" />
+      <workItem from="1568859158895" duration="11446000" />
+      <workItem from="1568964408065" duration="6577000" />
+      <workItem from="1569142316085" duration="121000" />
+      <workItem from="1569200389336" duration="4120000" />
+      <workItem from="1569327290707" duration="3988000" />
+      <workItem from="1569372632389" duration="8458000" />
+      <workItem from="1569459945464" duration="12898000" />
+      <workItem from="1569498563531" duration="2279000" />
+      <workItem from="1569551500698" duration="11303000" />
+      <workItem from="1569917680686" duration="4639000" />
+      <workItem from="1569995104419" duration="1100000" />
+      <workItem from="1570352116220" duration="1395000" />
+      <workItem from="1570495502633" duration="12143000" />
+      <workItem from="1570604678171" duration="2809000" />
+      <workItem from="1570629392094" duration="902000" />
+      <workItem from="1570670650610" duration="11777000" />
+      <workItem from="1570756284995" duration="12083000" />
+      <workItem from="1570795962781" duration="3851000" />
+      <workItem from="1570843126871" duration="7222000" />
+      <workItem from="1570951233017" duration="3641000" />
+      <workItem from="1571017214344" duration="10995000" />
+      <workItem from="1571036516886" duration="951000" />
+      <workItem from="1571830863235" duration="3617000" />
+      <workItem from="1572317200445" duration="3702000" />
+      <workItem from="1573433266011" duration="7270000" />
+      <workItem from="1573456185564" duration="521000" />
+      <workItem from="1573523334063" duration="8224000" />
+      <workItem from="1574230242484" duration="3828000" />
+      <workItem from="1574989297716" duration="4578000" />
+      <workItem from="1575461805961" duration="3386000" />
+      <workItem from="1576034499288" duration="1858000" />
+      <workItem from="1576066077319" duration="4023000" />
+      <workItem from="1576070449774" duration="1702000" />
+      <workItem from="1576151323066" duration="637000" />
+      <workItem from="1576235051999" duration="4813000" />
+      <workItem from="1576465398295" duration="9608000" />
+      <workItem from="1576498745165" duration="6289000" />
+      <workItem from="1576547645255" duration="10514000" />
+      <workItem from="1576652281356" duration="12628000" />
+      <workItem from="1576741858318" duration="13501000" />
+      <workItem from="1576847394903" duration="1597000" />
+      <workItem from="1577065265165" duration="12612000" />
+      <workItem from="1577152278413" duration="4447000" />
+      <workItem from="1577187127823" duration="4660000" />
+      <workItem from="1577258566948" duration="7989000" />
+      <workItem from="1577359363156" duration="9426000" />
+      <workItem from="1577412518055" duration="403000" />
+      <workItem from="1577448376368" duration="6631000" />
+      <workItem from="1577616331441" duration="8921000" />
+      <workItem from="1577805650603" duration="2963000" />
+      <workItem from="1578299099702" duration="5984000" />
+      <workItem from="1578391239977" duration="4653000" />
+      <workItem from="1578480394570" duration="4216000" />
+      <workItem from="1578536934577" duration="6219000" />
+      <workItem from="1578555933315" duration="353000" />
+      <workItem from="1578567615211" duration="7342000" />
+      <workItem from="1579009319685" duration="13000" />
+      <workItem from="1579009357946" duration="1790000" />
+      <workItem from="1579011612353" duration="110000" />
+      <workItem from="1579055005664" duration="2493000" />
+      <workItem from="1579090716881" duration="3597000" />
+      <workItem from="1580003306368" duration="4324000" />
+      <workItem from="1580092582405" duration="1967000" />
+      <workItem from="1580210885443" duration="646000" />
+      <workItem from="1580224284133" duration="1871000" />
+      <workItem from="1580270064187" duration="4179000" />
+      <workItem from="1580436929880" duration="5383000" />
+      <workItem from="1580564074171" duration="4815000" />
+      <workItem from="1580641228405" duration="1342000" />
+      <workItem from="1580699873879" duration="14125000" />
+      <workItem from="1580874332173" duration="9863000" />
+      <workItem from="1580960392244" duration="8349000" />
+      <workItem from="1581045203940" duration="4668000" />
+      <workItem from="1581135769847" duration="3160000" />
+      <workItem from="1581245029631" duration="5362000" />
+      <workItem from="1581322732810" duration="1697000" />
+      <workItem from="1581348986318" duration="2514000" />
+      <workItem from="1581392619763" duration="5537000" />
+      <workItem from="1581426251160" duration="14443000" />
+      <workItem from="1581563142361" duration="7905000" />
+      <workItem from="1581597145168" duration="27303000" />
+      <workItem from="1581859586406" duration="2358000" />
+      <workItem from="1581911873857" duration="8521000" />
+      <workItem from="1581996835554" duration="10722000" />
+      <workItem from="1582082034805" duration="12681000" />
+      <workItem from="1583034365233" duration="4319000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="PrintTreeLayer_testLevel - 2019.12.18 at 22h 18m 24s.xml">
+      <configuration name="PrintTreeLayer.testLevel" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrintTreeLayer - 2019.12.18 at 22h 19m 10s.xml">
+      <configuration name="PrintTreeLayer" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrintTreeLayer - 2019.12.18 at 22h 21m 08s.xml">
+      <configuration name="PrintTreeLayer" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="577853000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2934519" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4995958" weight="0.34219858" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.34751773" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.6619469" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5004042" side_tool="true" weight="0.4432624" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.2960993" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Statistic" order="13" weight="0.66312057" />
+      <window_info anchor="bottom" id="Duplicate detector" order="14" weight="0.6205674" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="SciView" order="6" />
+      <window_info anchor="right" id="Database" order="7" weight="0.024252223" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26758286" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4995958" weight="0.429078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.34751773" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.6619469" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5004042" side_tool="true" weight="0.4432624" />
+      <window_info anchor="bottom" id="Messages" order="10" visible="true" weight="0.2960993" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Statistic" order="13" weight="0.05319149" />
+      <window_info anchor="bottom" id="Duplicate detector" order="14" weight="0.6205674" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="SciView" order="6" />
+      <window_info anchor="right" id="Database" order="7" visible="true" weight="0.024252223" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/main/Python/nowcoder/S31_NumberOf1Between1AndN.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/Python/nowcoder/S3_PrintListFromTailToHead.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nowcoder/Array2List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="24" column="47" lean-forward="true" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Python/nowcoder/Array2List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="11" column="37" lean-forward="true" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nowcoder/TreeDepth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-154">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nowcoder/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nowcoder/GetBTreeNext.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/nowcoder/TreeLinkNode.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Python/nowcoder/S56_DeleteDuplication.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="29" column="33" lean-forward="true" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Python/nowcoder/S57_GetNext.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nowcoder/S57_GetNext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="23" lean-forward="true" selection-end-line="37" />
+          <folding>
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#262#263#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nowcoder/scriptFile.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/Python/nowcoder/S60_BTreePrint.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/nowcoder/S58_IsSymmetrical.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="34" column="33" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Python/nowcoder/S58_IsSymmetrical.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="23" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nowcoder/S59_ZPrint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1386">
+          <caret line="66" column="48" selection-start-line="64" selection-start-column="8" selection-end-line="66" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nowcoder/S60_BTreePrint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="6" column="3" selection-end-line="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Python/nowcoder/S60_BTreePrint.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nowcoder/PrintTreeLayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/HeapSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="27" selection-start-column="27" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nowcoder/S29_GetLeastKNumbers_Original.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="49" column="59" lean-forward="true" selection-start-line="49" selection-start-column="59" selection-end-line="49" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nowcoder/SerializeAndDeSerialize.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/Python/nowcoder/S61_SerializeAndDeSerialize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="22" column="46" lean-forward="true" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Python/nowcoder/S59_ZPrint.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Python/nowcoder/PrintTreeLayer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" selection-start-line="1" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nowcoder/S61_SerializeAndDeSerialize.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="32" lean-forward="true" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nowcoder/FirstAppearingOnce_54.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-226">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/RegularExpressionMatch.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nowcoder/S62_KthNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="33" column="46" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Python/nowcoder/S62_KthNode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nowcoder/GetMedian.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nowcoder/S63_GetMedian.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="48" column="44" lean-forward="true" selection-start-line="48" selection-start-column="27" selection-end-line="48" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#207#216#0" expanded="true" />
+            <element signature="e#292#301#0" expanded="true" />
+            <element signature="e#335#477#0" expanded="true" />
+            <element signature="e#476#477#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nowcoder/S37_GetNumberOfK.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nowcoder/S29_GetLeastKNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nowcoder/S64_MaxInWindows.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-259">
+          <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+          <folding>
+            <element signature="e#522#531#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Python/nowcoder/S66_MovingCount.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/nowcoder/MovingCount_66.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/nowcoder/S64_MaxInWindows_new.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="653">
+          <caret line="42" column="36" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Python/nowcoder/S63_GetMedian.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Python/nowcoder/S64_MaxInWindows.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="41" lean-forward="true" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nowcoder/S65_HasPath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Python/nowcoder/S65_HasPaht.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="32" column="43" lean-forward="true" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nowcoder/HasPath_65.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-449">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nowcoder/S66_MovingCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Python/nowcoder/S66_MovingCount.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="20" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nowcoder/S67_CutRope.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Python/nowcoder/S67_CutRope.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BinaryInsertionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_31/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-481">
+          <caret line="149" column="8" selection-start-line="149" selection-start-column="8" selection-end-line="149" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcodeTest/S373_kSmallestPairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#591#611#0" expanded="true" />
+            <element signature="e#735#892#0" expanded="true" />
+            <element signature="e#891#892#0" expanded="true" />
+            <element signature="e#1209#1218#0" expanded="true" />
+            <element signature="e#758#759#0" expanded="true" />
+            <element signature="e#793#794#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/leetcodeTest/S373_kSmallestPairs_new.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Python (program)|Python</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 3.7 interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>Python 3.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>program</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.11.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
